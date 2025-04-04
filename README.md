@@ -70,10 +70,6 @@ I will list what I used, just incase for anyone wondering what I used/platform c
 - Looking into hosting services and found this, its a nice website! > https://wheretohostmy.app/free-tier-comparison
     - Used Netlify and it was really fast to setup. Just drag & drop the built project dist files into the host service & thats it! You can get the dist file by doing ```npm run build``` and the dist file will be created.
 
-
-# Graphics Rendering Pipeline Process
-Very important, I will write this out once I fully/almost understand everything in the pipeline.
-
 # Important Computer Graphics Concepts
 This is here to list important topics & showcase some things I went through whilst learning CG & WebGL!  
 *I want to make this clear, but im trying to learn more about CG rather than WebGL right now, since if you know CG you will adapt to any graphics specification!*
