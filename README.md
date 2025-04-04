@@ -10,6 +10,8 @@ Since I'm basically creating a minecraft clone, I want to focus on the graphics 
 
 ps. I had no clue to how minecraft works (rendering part of it specifically) and thus a lot of the features might seem "normal" but I never knew it was something I had to "do" that probably didn't make much sense but I hope to just showcase what I learned.
 
+I didn't like my approach to some things but I think it's okay for my first time! (Especially the global object that contained a ton of references to important things lol)
+
 - Features
   - Culling of the following types
     - Backface
